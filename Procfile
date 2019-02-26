@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT bill_1095.wsgi:application
